@@ -1,0 +1,11 @@
+/home/mateusz/work/turn_finished/CMakeFiles/rebuild_cache.dir
+/home/mateusz/work/turn_finished/CMakeFiles/test.dir
+/home/mateusz/work/turn_finished/CMakeFiles/edit_cache.dir
+/home/mateusz/work/turn_finished/src/CMakeFiles/edit_cache.dir
+/home/mateusz/work/turn_finished/src/CMakeFiles/rebuild_cache.dir
+/home/mateusz/work/turn_finished/src/CMakeFiles/turnstile_lib.dir
+/home/mateusz/work/turn_finished/src/CMakeFiles/test.dir
+/home/mateusz/work/turn_finished/src/tests/CMakeFiles/rebuild_cache.dir
+/home/mateusz/work/turn_finished/src/tests/CMakeFiles/edit_cache.dir
+/home/mateusz/work/turn_finished/src/tests/CMakeFiles/trivial_test.dir
+/home/mateusz/work/turn_finished/src/tests/CMakeFiles/test.dir

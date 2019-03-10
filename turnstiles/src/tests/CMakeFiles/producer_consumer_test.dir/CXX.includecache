@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mateusz/work/turn_finished/src/tests/producer_consumer_test.cpp
+array
+-
+atomic
+-
+cassert
+-
+condition_variable
+-
+iostream
+-
+thread
+-
+vector
+-
+turnstile.h
+/home/mateusz/work/turn_finished/src/tests/turnstile.h
+
+src/turnstile.h
+stddef.h
+-
+condition_variable
+-
+mutex
+-
+type_traits
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mateusz/work/turn_finished/src/turnstile.cpp
+turnstile.h
+/home/mateusz/work/turn_finished/src/turnstile.h
+cassert
+-
+mutex
+-
+
+/home/mateusz/work/turn_finished/src/turnstile.h
+stddef.h
+-
+condition_variable
+-
+mutex
+-
+type_traits
+-
+

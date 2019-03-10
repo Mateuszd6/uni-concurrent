@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wunused-function -Wwrite-strings -Wformat -Wformat-security -Wparentheses -Wsequence-point -Wno-system-headers -Werror -Winit-self  -g -O0 -fstack-protector-all -D_GLIBXX_DEBUG -D_GLIBXX_DEBUG_PEDANTIC  -rdynamic CMakeFiles/multiple_test.dir/multiple_test.cpp.o  -o multiple_test ../libturnstile_lib.a -lpthread 

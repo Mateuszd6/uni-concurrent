@@ -1,0 +1,2 @@
+/usr/bin/ar qc libturnstile_lib.a  CMakeFiles/turnstile_lib.dir/turnstile.cpp.o
+/usr/bin/ranlib libturnstile_lib.a

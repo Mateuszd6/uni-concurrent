@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mateusz/work/turn_finished/src",
+  "command": "/usr/bin/c++   -I/home/mateusz/work/turn_finished/src    -Wall -Wunused-function -Wwrite-strings -Wformat -Wformat-security -Wparentheses -Wsequence-point -Wno-system-headers -Werror -Winit-self  -g -O0 -fstack-protector-all -D_GLIBXX_DEBUG -D_GLIBXX_DEBUG_PEDANTIC   -std=gnu++11 -o CMakeFiles/turnstile_lib.dir/turnstile.cpp.o -c /home/mateusz/work/turn_finished/src/turnstile.cpp",
+  "file": "/home/mateusz/work/turn_finished/src/turnstile.cpp"
+},
+{
+  "directory": "/home/mateusz/work/turn_finished/src/tests",
+  "command": "/usr/bin/c++   -I/home/mateusz/work/turn_finished/src    -Wall -Wunused-function -Wwrite-strings -Wformat -Wformat-security -Wparentheses -Wsequence-point -Wno-system-headers -Werror -Winit-self  -g -O0 -fstack-protector-all -D_GLIBXX_DEBUG -D_GLIBXX_DEBUG_PEDANTIC   -std=gnu++11 -o CMakeFiles/trivial_test.dir/trivial_test.cpp.o -c /home/mateusz/work/turn_finished/src/tests/trivial_test.cpp",
+  "file": "/home/mateusz/work/turn_finished/src/tests/trivial_test.cpp"
+}
+]
